@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+firebase is used for storing the user credintials
+
+##App screen
+![WhatsApp Image 2022-05-08 at 10 36 46 PM (1)](https://user-images.githubusercontent.com/64411315/167903378-395e36fe-2001-4d00-90a9-bab6fa5edc8f.jpeg)
+![WhatsApp Image 2022-05-08 at 10 36 46 PM](https://user-images.githubusercontent.com/64411315/167903400-aad48cd8-c59d-4972-8bbb-e40a7b1ae70f.jpeg)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
